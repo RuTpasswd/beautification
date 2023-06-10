@@ -1,2 +1,2 @@
 # beautification
-This is a beauty website
+This is a beauty saloon website
